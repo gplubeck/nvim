@@ -1,4 +1,4 @@
 require("configs.remap")
-require("configs.packer")
+require("configs.lazy")
 require("configs.set")
 
